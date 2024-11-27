@@ -40,3 +40,7 @@ Stashing permite trocar-mos de branch e sem perdermos o código da branch atual s
 
 O comando para remover um ficheiro da area de staging é "git remove".
 
+Limpa todos os commits que não constam no repositório.
+
+
+
