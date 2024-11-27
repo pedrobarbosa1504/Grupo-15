@@ -1,0 +1,37 @@
+INICIO
+
+
+entrada num;
+PCaracter num;
+UCaracter num;
+
+
+
+
+
+Escrever("Dê a entrada de o numero pretendido");
+Ler(entrada)
+
+Repetir(True){
+	Se (entrada > 1  ) {
+		(entrada.getFirstLetter* entrada.getFirstLetter= PCaracter) 
+		(entrada.getLastLetter * entrada.getLastLetter = UCaracter) 		
+
+		(entrada = Pcarcater Ucaracter)
+	
+		
+        }
+
+	Senao {
+
+		escrever("False")
+	}		
+
+
+	Se (entrada = 1){
+		Escrever("True")
+} 
+}
+
+
+FIM
