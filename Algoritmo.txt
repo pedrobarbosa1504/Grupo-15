@@ -23,13 +23,13 @@ Repetir(True){
         }
 
 	Senao {
-
+		Escrever("False")
 		
 	}		
 
 
 	Se (entrada = 1){
-		
+		Escrever("True")
 } 
 }
 
