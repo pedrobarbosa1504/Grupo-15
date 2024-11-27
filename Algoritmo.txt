@@ -38,3 +38,5 @@ FIM
 
 Stashing permite trocar-mos de branch e sem perdermos o código da branch atual sem fazer commit.
 
+O comando para remover um ficheiro da area de staging é "git remove".
+
