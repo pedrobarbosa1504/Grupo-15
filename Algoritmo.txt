@@ -35,3 +35,6 @@ Repetir(True){
 
 
 FIM
+
+Stashing permite trocar-mos de branch e sem perdermos o código da branch atual sem fazer commit.
+
