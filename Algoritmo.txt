@@ -24,12 +24,12 @@ Repetir(True){
 
 	Senao {
 
-		escrever("False")
+		
 	}		
 
 
 	Se (entrada = 1){
-		Escrever("True")
+		
 } 
 }
 
